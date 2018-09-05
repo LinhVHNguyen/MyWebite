@@ -1,2 +1,1 @@
-# MyWebite
-# my1stWebsite
+# MyWebsite
